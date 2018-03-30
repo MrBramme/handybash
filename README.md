@@ -6,3 +6,6 @@ A list of handy aliases
 
 ## Shell
 Some simple bash scripts.
+
+## Autohotkey
+Just some simple autohotkey script(s).
