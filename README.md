@@ -3,3 +3,6 @@ A repo to hold some handy bash scripts, aliases, info, ... This will be an ongoi
 
 ## Alias
 A list of handy aliases
+
+## Shell
+Some simple bash scripts.
